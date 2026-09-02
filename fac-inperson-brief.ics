@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Assemble//House of the People//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fac-inperson-brief@hotp.assemble
+DTSTAMP:20260902T121056Z
+DTSTART:20261119T190000Z
+DTEND:20261119T203000Z
+SUMMARY:HOTP Facilitator Briefing — in-person sitting briefing
+DESCRIPTION:Debrief of Session 9\, followed by Briefing 10: preparation for
+  the in-person deliberation days (27-29 November).\n\nThe Zoom joining lin
+ k is in your confirmation email.
+LOCATION:Online (Zoom)
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

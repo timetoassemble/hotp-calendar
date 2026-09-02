@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Assemble//House of the People//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ip-sat-am@hotp.assemble
+DTSTAMP:20260902T121056Z
+DTSTART:20261128T090000Z
+DTEND:20261128T093000Z
+SUMMARY:HOTP Deliberation Days — Saturday mini-briefing
+DESCRIPTION:Facilitator mini-briefing before day two of the in-person delib
+ eration days.
+LOCATION:The People's History Museum\, Left Bank\, Manchester M3 3ER
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

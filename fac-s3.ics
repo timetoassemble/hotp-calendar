@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Assemble//House of the People//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fac-s3@hotp.assemble
+DTSTAMP:20260902T121056Z
+DTSTART:20260907T180000Z
+DTEND:20260907T183000Z
+SUMMARY:HOTP Facilitator Briefing — prep for Session 3
+DESCRIPTION:Facilitator briefing ahead of Session 3: Inputs and Outputs of 
+ AI (16 September).\n\nThe Zoom joining link is in your confirmation email.
+LOCATION:Online (Zoom)
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

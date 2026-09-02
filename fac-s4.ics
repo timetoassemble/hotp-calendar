@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Assemble//House of the People//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fac-s4@hotp.assemble
+DTSTAMP:20260902T121056Z
+DTSTART:20260928T180000Z
+DTEND:20260928T183000Z
+SUMMARY:HOTP Facilitator Briefing — prep for Session 4
+DESCRIPTION:Facilitator briefing ahead of Session 4: Impacts of AI (6 Octob
+ er).\n\nThe Zoom joining link is in your confirmation email.
+LOCATION:Online (Zoom)
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

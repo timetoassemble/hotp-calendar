@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Assemble//House of the People//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:s6@hotp.assemble
+DTSTAMP:20260902T121056Z
+DTSTART:20261024T100000Z
+DTEND:20261024T143000Z
+SUMMARY:HOTP Session 6: SPRINT — DMDU (day 1)
+DESCRIPTION:House of the People deliberation sprint\, day one: Decision Mak
+ ing under Deep Uncertainty.\n\nThe Zoom joining link is in your confirmati
+ on email.
+LOCATION:Online (Zoom)
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

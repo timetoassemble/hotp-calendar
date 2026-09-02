@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Assemble//House of the People//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:s9@hotp.assemble
+DTSTAMP:20260902T121056Z
+DTSTART:20261112T190000Z
+DTEND:20261112T203000Z
+SUMMARY:HOTP Session 9: Existing Frameworks
+DESCRIPTION:House of the People online education session 9: Existing Framew
+ orks.\n\nThe Zoom joining link is in your confirmation email.
+LOCATION:Online (Zoom)
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

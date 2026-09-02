@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Assemble//House of the People//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ip-fri-pm@hotp.assemble
+DTSTAMP:20260902T121056Z
+DTSTART:20261127T173000Z
+DTEND:20261127T180000Z
+SUMMARY:HOTP Deliberation Days — Friday mini-debrief
+DESCRIPTION:Facilitator mini-debrief after day one of the in-person deliber
+ ation days.
+LOCATION:TBC - venue near The People's History Museum\, Manchester
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
